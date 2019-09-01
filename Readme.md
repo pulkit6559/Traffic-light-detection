@@ -4,7 +4,7 @@
 
 `wget https://pjreddie.com/media/files/yolov3.weights`
 
-`yad2k.py yolov3.cfg yolov3.weights yolo.h5`
+`python3 yad2k.py yolov3.cfg yolov3.weights yolo.h5`
 
 2. Paste the images on which traffic light detection is to be performed in `images/test` directory
 
